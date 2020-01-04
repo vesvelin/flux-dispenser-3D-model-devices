@@ -1,30 +1,28 @@
 # flux dispenser
  flux dispenser
 
-Дозатор паяльной пасты
+Solder paste dispenser
 
-Прошивка настроена на 168 чип адруины.
+The firmware is configured for the 168 chip adruins.
 
-Подключение к ногам, смотреть в прошивке.
+Connection to the legs, see the firmware.
 
-Драйвер шагового подключен через адаптер для удобства пользования, драйвер типа A4988 или что нибудь подобное.
+A stepper driver is connected via an adapter for ease of use, a driver such as A4988 or something similar.
 
-Питание 12 вольт, адруина через VIN тоже.
+Power 12 volts, Adruin via VIN too.
 
-Драйвер по линии 5 вольт питается от адруины.
+The driver on the 5 volt line is powered by adruins.
 
-катоды LED диодов сборки собраны в кучу и через 1Ком подключены к земле адруины.
+cathodes of LED assembly diodes are assembled in a heap and through 1Kom Adruins are connected to the ground.
 
-Шаговый двигатель любой, но в данной модели как на картинке step drive\PM35L-D48-HPH7-.JPG
-этот шаговый нужно поправить, в оригинальном виде обмотки по средней точке объеденены (cut windings.png), требуется обрезание...
-как на картинке cut windings stepper motor.png и отрезать лишний провод за ненадобностью...
+Any stepper motor, but in this model as in the picture step drive \ PM35L-D48-HPH7-.JPG
+this step must be corrected, in the original form, the windings at the midpoint are combined (cut windings.png), cutting is required ...
+as in the picture cut windings stepper motor.png and cut off the excess wire as unnecessary ...
 
-код не "вылизан" и набросан на скорую руку...))))
+the code is not "licked" and thrown in haste ...))))
 
---------------------------------------------------------------------------------------------
-модель свободна для копирования редактирования и прочим привратностям жизни...
-
-
+-------------------------------------------------- ------------------------------------------
+the model is free for copying editing and other life's vicissitudes ...
 
 
 
