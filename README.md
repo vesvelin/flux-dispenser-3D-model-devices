@@ -21,6 +21,13 @@ as in the picture cut windings stepper motor.png and cut off the excess wire as 
 
 the code is not "licked" and thrown in haste ...))))
 
+
+///////////
+COMMENT!!!
+The rotary axis in the hinged module should be changed with the axis of the latches, this is a design error ...
+//////////
+
+
 -------------------------------------------------- ------------------------------------------
 the model is free for copying editing and other life's vicissitudes ...
 
